@@ -19,13 +19,13 @@
 <td  width="70%" valign="middle" >
   
 <h3>
-🌸 Currently</h3>
+ Currently</h3>
 
-✨ Learning Python<br>
+ Learning Python<br>
 
-🎧 Making Playlists<br>
+ Making Playlists<br>
 
-🌙 Collecting Goals 
+ Collecting Goals 
 
 <br>
 
