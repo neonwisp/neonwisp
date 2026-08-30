@@ -25,7 +25,7 @@
 
  Making Playlists<br>
 
- Collecting Goals 
+ Collecting Hobbies
 
 <br>
 
