@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+digital+garden;Python+Learner;IT+Student;Star+Photographer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0fb9d4&center=true&vCenter=true&width=500&lines=Welcome+to+my+digital+garden;Python+Learner;IT+Student;Star+Photographer">
 </p>
 
 
@@ -47,7 +47,7 @@
   </p>
 
 <p align = "center" >
-  <img alt="" class="iFOUS5" draggable="true" fetchpriority="high" loading="auto" elementtiming="closeup-image-main-MainPinImage" src="https://i.pinimg.com/originals/63/25/37/632537b75ebbed6f6186e3738f3469c5.gif">
+  <img alt="" class="iFOUS5" draggable="true" fetchpriority="high" loading="auto" elementtiming="closeup-image-main-MainPinImage" src="https://i.pinimg.com/originals/55/44/dd/5544dd23e23aaae4994cd8ab98382fd7.gif">
 </p>
 
 <p align="center">
